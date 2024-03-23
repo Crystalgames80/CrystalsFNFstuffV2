@@ -11,7 +11,7 @@ Jinriki TH - Tower heroes samples (mostly outdated cuz well i dont update it tha
 Regular Chromatics - Where all my chromatics i make go
  -Custom Chromatics - Chromatics of other characters
  -Other Mods - Other mod chromatics i made ( basically chromatics of characters from other mods)
-  - THFBS - Tower heroes ig (again not updated anymore)
+ -THFBS - Tower heroes ig (again not updated anymore)
 
 Samples - Samples of characters from "Regular Chromatics"
 
